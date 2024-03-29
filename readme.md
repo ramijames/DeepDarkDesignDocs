@@ -13,7 +13,7 @@ For there to be some longterm plan, there needs to be some repository of ideas w
 ## How are these documents organized?
 There are a set of sub-directories, each with their own Markdown files. They are organized by:
 
-- [Character traits and classes](https://github.com/ramijames/DeepDarkDesignDocs/Background story and world building/00_introduction.md)
+- [Character traits and classes](https://github.com/ramijames/DeepDarkDesignDocs/Background/00_introduction.md)
 - Game design
 - Background story and world-building materials
 
