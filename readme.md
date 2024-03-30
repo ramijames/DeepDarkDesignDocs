@@ -14,15 +14,15 @@ For there to be some longterm plan, there needs to be some repository of ideas w
 There are a set of sub-directories, each with their own Markdown files. They are organized by:
 
 ### Background
-- [Background introduction](https://github.com/ramijames/DeepDarkDesignDocs/Background/00_introduction.md)
+- [Background introduction](https://github.com/ramijames/DeepDarkDesignDocs/blob/main/Background/00_introduction.md)
 
 ### Characters
-- [Character introduction](https://github.com/ramijames/DeepDarkDesignDocs/Characters/00_introduction.md)
+- [Character introduction](https://github.com/ramijames/DeepDarkDesignDocs/blob/main/Characters/00_introduction.md)
 
 ### Game design
-- [Game Structure](https://github.com/ramijames/DeepDarkDesignDocs/Gamedesign/00_gamestructure.md)
-- [Game Loop](https://github.com/ramijames/DeepDarkDesignDocs/Gamedesign/01_gameloop.md)
-- [Tile Editor - Dreamforge](https://github.com/ramijames/DeepDarkDesignDocs/Gamedesign/02_tileeditor.md)
+- [Game Structure](https://github.com/ramijames/DeepDarkDesignDocs/blob/main/Gamedesign/00_gamestructure.md)
+- [Game Loop](https://github.com/ramijames/DeepDarkDesignDocs/blob/main/Gamedesign/01_gameloop.md)
+- [Tile Editor - Dreamforge](https://github.com/ramijames/DeepDarkDesignDocs/blob/main/Gamedesign/02_tileeditor.md)
 
 ## External contribution
 This is really intended to be a one-man show, but external contributions are always welcome. The preferred method is to open an issue so that ideas can be discussed publicly. [You can do that here](https://github.com/ramijames/DeepDarkDesignDocs/issues).
