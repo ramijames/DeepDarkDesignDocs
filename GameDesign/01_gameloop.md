@@ -15,7 +15,7 @@ Usually this meant:
 - Sometimes send email externally
 - WareZ
 
-As a precocious 8 year old, all I was really interested in were the games.
+As an 8 year old, all I was really interested in were the games.
 
 My favorite was a dungeon crawler that you'd log into every day. You would get a few actions that you were allowed to run before you were booted from the game until the next day. 
 
@@ -23,3 +23,16 @@ I'm sure that it was designed that way because physical resources were limited, 
 
 I'd like to reproduce that addictive quality in the game loop for Deep Dark. The scale of the game shouldn't be just daily, it should span the course of months.
 
+## Core Loop
+
+1. Register/login
+2. Character creation
+3. Home village with access to
+   1. Shopkeep for food, weapons, items, etc.
+   2. Dungeonforge for dungeon creation
+   3. Tavern for rankings, community
+   4. Gaping maw, which drops you into a random dungeon
+
+So once the user is in the home village, they must make a smart decision about what they do. There should be no constraints on access to the shopkeep, the dungeonforge, and the tavern. There should be limits on how many runs you can make in the dungeons.
+
+Every day that you log in, you should be granted some valuable asset like gold or food which can be traded either for equipment that you need OR for access to the dungeons. There's some critical balancing that has to happen here, and we can discuss this at length in a separate document.
