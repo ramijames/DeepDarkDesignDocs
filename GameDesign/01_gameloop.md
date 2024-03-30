@@ -29,16 +29,16 @@ I'd like to reproduce that addictive quality in the game loop for Deep Dark. The
 2. Character creation
 3. Home village with access to
    1. Shopkeep for food, weapons, items, etc.
-   2. Dungeonforge for dungeon creation
+   2. Dreamforge for dungeon creation
    3. Tavern for rankings, community
    4. Gaping maw, which drops you into a random dungeon
       1. Run the story and dungeons
       2. On exit (success/death), see a stats screen and allow voting
 
-So once the user is in the home village, they must make a smart decision about what they do. There should be no constraints on access to the shopkeep, the dungeonforge, and the tavern. There should be limits on how many runs you can make in the dungeons.
+So once the user is in the home village, they must make a smart decision about what they do. There should be no constraints on access to the shopkeep, the Dreamforge, and the tavern. There should be limits on how many runs you can make in the dungeons.
 
 Every day that you log in, you should be granted some valuable asset like gold or food which can be traded either for equipment that you need OR for access to the dungeons. There's some critical balancing that has to happen here, and we can discuss this at length in a separate document.
 
 We want to draw users to come into the game every day to get their free loot, and we want to get them to stay to create content and do dungeon runs.
 
-The Dungeonforge should pay out some incentive for people to create good dungeons. This means that dungeons should be rated after each run, by the players that run them. Since runs are random, sometimes you'll get a great dungeon and sometimes you'll get a meh one. Dungeonforgers are incentivized to create content since highly rate dungeons mean that they themselves receive more loot each day that they log in.
+The Dreamforge should pay out some incentive for people to create good dungeons. This means that dungeons should be rated after each run, by the players that run them. Since runs are random, sometimes you'll get a great dungeon and sometimes you'll get a meh one. Dreamforgers are incentivized to create content since highly rate dungeons mean that they themselves receive more loot each day that they log in.

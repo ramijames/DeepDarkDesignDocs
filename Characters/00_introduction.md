@@ -14,8 +14,11 @@ I'm on the fence about parties. On the one hand it means that a user can develop
 
 ### Arguments for Parties in gameplay
 
-- More characters means that 
+- More players means more subtle, interesting gameplay. This may attract a more invested player, who is seeking a deeper level of play.
+- Allows for more tactical dungeon designs, which require players to manage their party intelligently through it.
 
 
 ### Arguments against Parties in gameplay
 
+- More characters means that each game will be more difficult to manage as a player. More RPG and less Zelda. I'm more inclined towards the simpler, cleaner game design.
+- Gameplay becomes about your character, who is an avatar for you, the player. It also means that 
