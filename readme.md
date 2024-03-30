@@ -14,7 +14,7 @@ For there to be some longterm plan, there needs to be some repository of ideas w
 There are a set of sub-directories, each with their own Markdown files. They are organized by:
 
 ### Background
-- [Character introduction](https://github.com/ramijames/DeepDarkDesignDocs/Background/00_introduction.md)
+- [Background introduction](https://github.com/ramijames/DeepDarkDesignDocs/Background/00_introduction.md)
 
 ### Characters
 - [Character introduction](https://github.com/ramijames/DeepDarkDesignDocs/Characters/00_introduction.md)
