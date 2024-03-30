@@ -24,9 +24,6 @@ There are a set of sub-directories, each with their own Markdown files. They are
 - [Game Loop](https://github.com/ramijames/DeepDarkDesignDocs/Gamedesign/01_gameloop.md)
 - [Tile Editor - Dreamforge](https://github.com/ramijames/DeepDarkDesignDocs/Gamedesign/02_tileeditor.md)
 
-
-- Background story and world-building materials
-
 ## External contribution
 This is really intended to be a one-man show, but external contributions are always welcome. The preferred method is to open an issue so that ideas can be discussed publicly. [You can do that here](https://github.com/ramijames/DeepDarkDesignDocs/issues).
 
